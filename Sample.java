@@ -1,1 +1,5 @@
-class Sample {}
+class Sample {
+    public static void main() {
+
+    }
+}
